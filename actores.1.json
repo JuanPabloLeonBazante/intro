@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "nombre": "Boku Cortes",
+    "año_nacimiento": "1950"
+  },
+  {
+    "id": "2",
+    "nombre": "El Destructor de Ortos",
+    "año_nacimiento": "1960"
+  },
+  {
+    "id": "3",
+    "nombre": "Antonio Banderas",
+    "año_nacimiento": "1970"
+  },
+  {
+    "id": "4",
+    "nombre": "Hozo Benavides",
+    "año_nacimiento": "1995"
+  },
+  {
+    "id": "5",
+    "nombre": "Sistycent",
+    "año_nacimiento": "1995"
+  }
+]

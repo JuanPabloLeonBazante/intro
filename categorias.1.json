@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "nombre": "Accion"
+  },
+  {
+    "id": "2",
+    "nombre": "Fantasia"
+  },
+  {
+    "id": "3",
+    "nombre": "Drama"
+  },
+  {
+    "id": "4",
+    "nombre": "Destruccion"
+  },
+  {
+    "id": "5",
+    "nombre": "Mofas"
+  }
+]
