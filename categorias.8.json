@@ -1,18 +1,18 @@
 [{
 		"id": 80,
-		"nombre": "Comedy",
+		"nombre": "Comedy"
 	}, {
 		"id": 81,
-		"nombre": "Science Fiction",
+		"nombre": "Science Fiction"
 	}, {
 		"id": 82,
-		"nombre": "Tv Movie",
+		"nombre": "Tv Movie"
 	}, {
 		"id": 83,
-		"nombre": "History",
+		"nombre": "History"
 	}, {
 		"id": 84,
-		"nombre": "Romance",
+		"nombre": "Romance"
 	}
 
 ]
