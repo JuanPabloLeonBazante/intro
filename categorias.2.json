@@ -1,0 +1,21 @@
+[{
+		"id": "20",
+		"nombre": "Drama"
+	},
+	{
+		"id": "21",
+		"nombre": "Suspenso"
+	},
+	{
+		"id": "22",
+		"nombre": "Acción"
+	},
+	{
+		"id": "23",
+		"nombre": "Comedia"
+	},
+	{
+		"id": "24",
+		"nombre": "Animadas"
+	}
+]
