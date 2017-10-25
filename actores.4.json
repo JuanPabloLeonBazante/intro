@@ -1,0 +1,29 @@
+{
+  "actores" : [
+    {
+      "id" : 1231,
+      "nombre" : "Julianne Moore",
+      "año_nacimiento" : 1960
+    },
+    {
+      "id" : 5472,
+      "nombre" : "Colin Firth",
+      "año_nacimiento" : 1960
+    },
+    {
+      "id" : 8691,
+      "nombre" : "Zoe Saldana",
+      "año_nacimiento" : 1978
+    },
+    {
+      "id" : 30614,
+      "nombre" : "Ryan Gosling",
+      "año_nacimiento" : 1980
+    },
+    {
+      "id" : 3,
+      "nombre" : "Harrison Ford",
+      "año_nacimiento" : 1942
+    },
+  ]
+}
