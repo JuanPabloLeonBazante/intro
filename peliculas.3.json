@@ -1,0 +1,50 @@
+{
+  "peliculas": [
+    {
+      "id" : 424,
+      "nombre" : "Schindler's List",
+      "resumen" :   "The true story of how businessman Oskar Schindler saved over a thousand
+                    Jewish lives from the Nazis while they worked as slaves in his factory
+                    during World War II.",
+      "url_trailer" : "https://youtu.be/bJcLRFWxRno"
+    },
+    {
+      "id" : 374430,
+      "hombre" : "Black Mirror: White Christmas",
+      "resumen" :   "This feature-length special consists of three interwoven stories. In a
+                      mysterious and remote snowy outpost, Matt and Potter share a Christmas meal,
+                      swapping creepy tales of their earlier lives in the outside world. Matt is
+                      a charismatic American trying to bring the reserved, secretive Potter out of
+                      his shell. But are both men who they appear to be? A woman gets thrust into a
+                      nightmarish world of 'smart' gadgetry. Plus a look at what would happen if you
+                      could 'block' people in real life.",
+      "url_trailer" : "https://youtu.be/P3RHYNZplWg"
+    },
+    {
+      "id" : 244786,
+      "nombre" : "Whiplash",
+      "resumen" :   "Under the direction of a ruthless instructor, a talented young drummer begins
+                      to pursue perfection at any cost, even his humanity.",
+      "url_trailer" : "https://youtu.be/Df1xkYYbYrY"
+    },
+    {
+      "id" : 637,
+      "nombre" : "Life Is Beautiful",
+      "resumen" :   "A touching story of an Italian book seller of Jewish ancestry who lives in his
+                      own little fairy tale. His creative and happy life would come to an abrupt halt
+                      when his entire family is deported to a concentration camp during World War II.
+                      While locked up he tries to convince his son that the whole thing is just a game.",
+      "url_trailer" : "https://youtu.be/pAYEQP8gx3w"
+    },
+    {
+      "id" : 155,
+      "nombre" : "The Dark Knight",
+      "resumen" :   "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and
+                      District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal
+                      organizations that plague the streets. The partnership proves to be effective, but
+                      they soon find themselves prey to a reign of chaos unleashed by a rising criminal
+                      mastermind known to the terrified citizens of Gotham as the Joker.",
+      "url_trailer" : "https://youtu.be/kmJLuwP3MbY"
+    },
+  ]
+}

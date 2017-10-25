@@ -1,0 +1,24 @@
+{
+  "categorias" : [
+    {
+      "id": 27,
+      "nombre" : "Horror"
+    },
+    {
+      "id": 28
+      "nombre" : "Acción"
+    },
+    {
+      "id": 9648,
+      "nombre" : "Misterio"
+    },
+    {
+      "id": 878,
+      "nombre" : "Ciencia ficción"
+    },
+    {
+      "id": 53,
+      "nombre" : "Thriller"
+    },
+  ]
+}
