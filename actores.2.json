@@ -1,17 +1,18 @@
 [{
 		"id": "20",
 		"nombre": "Al pacino",
-		"anio_nacimiento": "1940"
+		"año_nacimiento": "1940"
 	},
+	
 	{
 		"id": "21",
 		"nombre": "Marlon Brando",
-		"anio_nacimiento": "1970"
+		"año_nacimiento": "1970"
 	},
 	{
 		"id": "22",
 		"nombre": "John Travolta",
-		"anio_nacimiento": "1967"
+		"año_nacimiento": "1967"
 	},
 	{
 		"id": "23",
@@ -21,6 +22,6 @@
 	{
 		"id": "24",
 		"nombre": "Bruce Willis",
-		"anio_nacimiento": "1979"
+		"año_nacimiento": "1979"
 	}
 ]
