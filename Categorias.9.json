@@ -1,0 +1,31 @@
+{
+	"Categorias": [
+
+		{
+			"id": 27,
+			"nombre": "Horror"
+
+
+		},
+		{
+			"id": 35,
+			"nombre": "Comedy"
+
+
+		},
+		{
+			"id": 18,
+			"nombre": "Drama"
+
+		},
+		{
+			"id": 12,
+			"nombre": "Adventure"
+		},
+		{
+			"id": 878,
+			"nombre": "Science-fiction"
+		}
+
+	]
+}
