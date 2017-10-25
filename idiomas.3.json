@@ -13,12 +13,12 @@
       "nombre" : "Greek"
     },
     {
-      "id" : 4;
+      "id" : 4,
       "nombre" : "German"
     },
     {
       "id" : 5,
       "nombre" : "French"
-    },
+    }
   ]
 }

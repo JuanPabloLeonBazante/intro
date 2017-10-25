@@ -10,7 +10,7 @@
     },
     {
       "id" : 374430,
-      "hombre" : "Black Mirror: White Christmas",
+      "nombre" : "Black Mirror: White Christmas",
       "resumen" :   "This feature-length special consists of three interwoven stories. In a
                       mysterious and remote snowy outpost, Matt and Potter share a Christmas meal,
                       swapping creepy tales of their earlier lives in the outside world. Matt is
@@ -45,6 +45,6 @@
                       they soon find themselves prey to a reign of chaos unleashed by a rising criminal
                       mastermind known to the terrified citizens of Gotham as the Joker.",
       "url_trailer" : "https://youtu.be/kmJLuwP3MbY"
-    },
+    }
   ]
 }

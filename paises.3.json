@@ -6,7 +6,7 @@
     },
     {
       "id" : 2,
-      "nombre" = "France"
+      "nombre" : "France"
     },
     {
       "id" : 3,
@@ -19,6 +19,6 @@
     {
       "id" : 5,
       "nombre" : "Japan"
-    },
+    }
   ]
 }
