@@ -1,0 +1,24 @@
+[
+  {
+    "id": 140,
+    "nombre": "accion"
+  },
+  {
+    "id": 141,
+    "nombre": "drama"
+  },
+  {
+    "id": 142,
+    "nombre": "comedia"
+  },
+  {
+    "id": 143,
+    "nombre": "terror"
+  },
+  {
+    "id": 144,
+    "nombre": "aventura"
+  }
+
+
+]
