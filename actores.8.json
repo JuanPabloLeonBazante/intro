@@ -1,23 +1,28 @@
 [{
 		"id": 80,
 		"nombre": "Kristen Stewart",
-		"año_nacimiento": "1990"
+		"año_nacimiento": "1990",
+		"pais": 80
 	}, {
 		"id": 81,
 		"nombre": "Robert Pattinson",
-		"año_nacimiento": "1986"
+		"año_nacimiento": "1986",
+		"pais": 81
 	}, {
 		"id": 82,
 		"nombre": "Taylor Lautner",
-		"año_nacimiento": "1992"
+		"año_nacimiento": "1992",
+		"pais": 82
 	}, {
 		"id": 83,
 		"nombre": "Peter Facinelli",
-		"año_nacimiento": "1973"
+		"año_nacimiento": "1973",
+		"pais": 83
 	}, {
 		"id": 84,
 		"nombre": "Ashley Greene",
-		"año_nacimiento": "1987"
+		"año_nacimiento": "1987",
+		"pais": 84
 	}
 
 ]
