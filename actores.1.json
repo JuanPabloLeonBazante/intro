@@ -2,26 +2,31 @@
   {
     "id": "1",
     "nombre": "Boku Cortes",
-    "año_nacimiento": "1950"
+    "año_nacimiento": "1950",
+    "pais": "1"
   },
   {
     "id": "2",
     "nombre": "El Destructor de Ortos",
-    "año_nacimiento": "1960"
+    "año_nacimiento": "1960",
+    "pais": "2"
   },
   {
     "id": "3",
     "nombre": "Antonio Banderas",
-    "año_nacimiento": "1970"
+    "año_nacimiento": "1970",
+    "pais": "3"
   },
   {
     "id": "4",
     "nombre": "Hozo Benavides",
-    "año_nacimiento": "1995"
+    "año_nacimiento": "1995",
+    "pais": "4"
   },
   {
     "id": "5",
     "nombre": "Sistycent",
-    "año_nacimiento": "1995"
+    "año_nacimiento": "1995",
+    "piltrafa": "5"
   }
 ]

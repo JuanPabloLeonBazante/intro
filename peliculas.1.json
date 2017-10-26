@@ -1,32 +1,57 @@
 [
-  {
+  {asdasdasdasdasdasdasd
     "id": "1",
     "nombre": "Falso1",
     "resumen": "MuyMala1",
-    "url_trailer": "www.video.com/falso1"
+    "url_trailer": "www.video.com/falso1",
+    "categoria": "1",
+    "pais": "1",
+    "actores": ["1", "2"],
+    "audios": ["2", "3"],
+    "subtitulos": ["3", "4"]
   },
   {
     "id": "2",
     "nombre": "Falso2",
     "resumen": "MuyMala2",
-    "url_trailer": "www.video.com/falso2"
+    "url_trailer": "www.video.com/falso2",
+    "categoria": "2",
+    "pais": "2",
+    "actores": ["5", "1"],
+    "audios": ["1", "4"],
+    "subtitulos": ["2", "3"]
   },
   {
     "id": "3",
     "nombre": "Falso3",
     "resumen": "MuyMala3",
     "url_trailer": "www.video.com/falso3"
+    "categoria": "3",
+    "pais": "3",
+    "actores": ["2", "5"],
+    "audios": ["4", "3"],
+    "subtitulos": ["1", "2"]
   },
   {
     "id": "4",
     "nombre": "Falso4",
     "resumen": "MuyMala4",
-    "url_trailer": "www.video.com/falso4"
+    "url_trailer": "www.video.com/falso4",
+    "categoria": "4",
+    "pais": "4",
+    "actores": ["1", "3"],
+    "audios": ["2", "5"],
+    "subtitulos": ["2", "4"]
   },
   {
     "id": "5",
     "nombre": "Falso5",
     "resumen": "MuyMala5",
-    "url_trailer": "www.video.com/falso5"
-  }
+    "url_trailer": "www.video.com/falso5",
+    "categoria": "5",
+    "pais": "5",
+    "actores": ["1", "2"],
+    "audios": ["2", "3"],
+    "subtitulos": ["3", "4"]
+  }dasdasdasdasdasd
 ]
