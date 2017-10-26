@@ -6,7 +6,11 @@
       "resumen" :   "The true story of how businessman Oskar Schindler saved over a thousand
                     Jewish lives from the Nazis while they worked as slaves in his factory
                     during World War II.",
-      "url_trailer" : "https://youtu.be/bJcLRFWxRno"
+      "url_trailer" : "https://youtu.be/bJcLRFWxRno",
+      "categoría" : 27,
+      "actores" : ["14386", "85"],
+      "audios" : ["1", "2", "3"],
+      "subtitulos" : ["1", "2", "3"]
     },
     {
       "id" : 374430,
@@ -18,14 +22,22 @@
                       his shell. But are both men who they appear to be? A woman gets thrust into a
                       nightmarish world of 'smart' gadgetry. Plus a look at what would happen if you
                       could 'block' people in real life.",
-      "url_trailer" : "https://youtu.be/P3RHYNZplWg"
+      "url_trailer" : "https://youtu.be/P3RHYNZplWg",
+      "categoría" : 28,
+      "actores" : ["85", "72129"],
+      "audios" : ["1", "2", "3", "4", "5"],
+      "subtitulos" : ["1", "2", "3", "4", "5"]
     },
     {
       "id" : 244786,
       "nombre" : "Whiplash",
       "resumen" :   "Under the direction of a ruthless instructor, a talented young drummer begins
                       to pursue perfection at any cost, even his humanity.",
-      "url_trailer" : "https://youtu.be/Df1xkYYbYrY"
+      "url_trailer" : "https://youtu.be/Df1xkYYbYrY",
+      "categoría" : 9648,
+      "actores" : ["10990", "109513"],
+      "audios" : ["1", "2"],
+      "subtitulos" : ["1", "2"]
     },
     {
       "id" : 637,
@@ -34,7 +46,11 @@
                       own little fairy tale. His creative and happy life would come to an abrupt halt
                       when his entire family is deported to a concentration camp during World War II.
                       While locked up he tries to convince his son that the whole thing is just a game.",
-      "url_trailer" : "https://youtu.be/pAYEQP8gx3w"
+      "url_trailer" : "https://youtu.be/pAYEQP8gx3w",
+      "categoría" : 878,
+      "actores" : ["72129", "14386"],
+      "audios" : ["1", "4", "5"],
+      "subtitulos" : ["1", "4", "5"]
     },
     {
       "id" : 155,
@@ -44,7 +60,11 @@
                       organizations that plague the streets. The partnership proves to be effective, but
                       they soon find themselves prey to a reign of chaos unleashed by a rising criminal
                       mastermind known to the terrified citizens of Gotham as the Joker.",
-      "url_trailer" : "https://youtu.be/kmJLuwP3MbY"
+      "url_trailer" : "https://youtu.be/kmJLuwP3MbY",
+      "categoría" : 53,
+      "actores" : ["85", "72129", "14386"],
+      "audios" : ["3", "4", "5"],
+      "subtitulos" : ["3", "4", "5"]
     }
   ]
 }
