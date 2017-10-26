@@ -1,0 +1,30 @@
+[{
+"id":1,
+"nombre":"Deadpool ",
+"resumen":"Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+"url_trailer":"https://www.themoviedb.org/movie/293660-deadpool"
+},
+{
+"id":2,
+"nombre":"Split",
+"resumen":"Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
+"trailer":"https://www.themoviedb.org/movie/381288-split"
+},
+{
+"id":3,
+"nombre":"Zootopia",
+"resumen":"Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+"trailer":"https://www.themoviedb.org/movie/269149-zootopia"
+},
+{
+"id":4,
+"nombre":"A silent voice",
+"resumen":"Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
+"trailer":"https://www.themoviedb.org/movie/378064"
+},{
+"id":5,
+"nombre":"Suicide Squad",
+"resumen":"From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+"trailer":"https://www.themoviedb.org/movie/297761-suicide-squad"
+}
+]
