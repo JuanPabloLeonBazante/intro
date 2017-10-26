@@ -1,0 +1,11 @@
+{
+    [
+        "id": 1,
+        "nombre": "Aamir Khan",
+        "anio_nacimiento": "1965"
+    ], [
+        "id": 2,
+        "nombre": "Audrey Tautou",
+        "anio_nacimiento": "1976"
+    ]
+}
