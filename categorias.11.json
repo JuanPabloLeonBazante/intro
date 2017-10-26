@@ -1,0 +1,25 @@
+[{
+		"id": 110,
+		"nombre": "Drama "
+
+	},
+	{
+		"id": 111,
+		"nombre": "Comedia"
+	},
+	{
+		"id": 112,
+		"nombre": "Fantasía "
+
+	},
+	{
+		"id": 113,
+		"nombre": "Romance "
+
+	},
+	{
+		"id": 114,
+		"nombre": "Bélico"
+
+	}
+]

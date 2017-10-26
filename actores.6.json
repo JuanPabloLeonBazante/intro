@@ -1,0 +1,26 @@
+[{
+		"id": 60,
+		"nombre": " Dwayne Johnson",
+		"año_nacimiento": "1972"
+	},
+	{
+		"id": 61,
+		"nombre": "Jennifer Jason Leigh",
+		"año_nacimiento": "1962"
+	},
+	{
+		"id": 62,
+		"nombre": "Natalie Portman",
+		"año_nacimiento": "1981"
+	},
+	{
+		"id": 63,
+		"nombre": "Peter Dinklage",
+		"año_nacimiento": "1969"
+	},
+	{
+		"id": 64,
+		"nombre": " Jason Statham",
+		"año_nacimiento": "1967"
+	}
+]

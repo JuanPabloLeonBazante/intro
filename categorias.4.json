@@ -1,0 +1,24 @@
+{
+  "generos" : [
+    {
+      "id" : 28,
+      "nombre" : "Action"
+    },
+    {
+      "id" : 12,
+      "nombre" : "Adventure",
+    },
+    {
+      "id" : 35,
+      "nombre" : "Comedy"
+    },
+    {
+      "id" : 9648,
+      "nombre" : "Mystery"
+    },
+    {
+      "id" : 878,
+      "nombre" : "Science Fiction"
+    }
+  ]
+}
