@@ -1,0 +1,21 @@
+[{
+		"id": 60,
+		"nombre": "War"
+	},
+	{
+		"id": 61,
+		"nombre": "Western"
+	},
+	{
+		"id": 62,
+		"nombre": "Science fiction"
+	},
+	{
+		"id": 63,
+		"nombre": "Thriller"
+	},
+	{
+		"id": 64,
+		"nombre": "TV Movie"
+	}
+]
