@@ -1,25 +1,119 @@
 [{
 		"id": 110,
-		"nombre": "Keanu Reeves"
+		"nombre": "Keanu Reeves",
+		"año_nacimiento":"1999",
+		"pais":[
+			{
+				"id":"1",
+				"nombre":"colombia"
+
+			},
+			{
+				"id":"2",
+				"nombre":"usa"
+
+			},
+			{
+				"id":"3",
+				"nombre":"japon"
+
+			},
+
+			]
 
 	},
 	{
 		"id": 111,
-		"nombre": "Keanu Reeves"
+		"nombre": "Keanu Reeves",
+		"año_nacimiento":"2000",
+		"pais":[
+			{
+				"id":"1",
+				"nombre":"colombia"
+
+			},
+			{
+				"id":"2",
+				"nombre":"usa"
+
+			},
+			{
+				"id":"3",
+				"nombre":"japon"
+
+			},
+
+			]
 	},
 	{
 		"id": 112,
-		"nombre": "Lorenza Izzo"
+		"nombre": "Lorenza Izzo",
+		"año_nacimiento":"2003",
+		"pais":[
+			{
+				"id":"1",
+				"nombre":"colombia"
 
+			},
+			{
+				"id":"2",
+				"nombre":"usa"
+
+			},
+			{
+				"id":"3",
+				"nombre":"japon"
+
+			},
+
+			]
 	},
 	{
 		"id": 113,
-		"nombre": "Colleen Camp"
+		"nombre": "Colleen Camp",
+		"año_nacimiento":"1975",
+		"pais":[
+			{
+				"id":"1",
+				"nombre":"colombia"
+
+			},
+			{
+				"id":"2",
+				"nombre":"usa"
+
+			},
+			{
+				"id":"3",
+				"nombre":"japon"
+
+			},
+
+			]
 
 	},
 	{
 		"id": 114,
-		"nombre": "Ignacia Allamand"
+		"nombre": "Ignacia Allamand",
+		"año_nacimiento":"1999",
+		"pais":[
+			{
+				"id":"1",
+				"nombre":"colombia"
+
+			},
+			{
+				"id":"2",
+				"nombre":"usa"
+
+			},
+			{
+				"id":"3",
+				"nombre":"japon"
+
+			},
+
+			]
 
 	}
 ]

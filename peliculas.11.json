@@ -2,30 +2,54 @@
 		"id": 110,
 		"nombre": "Knock Knock",
 		"resumen": "Knock Knock es una película chileno-estadounidense de suspenso erótico de 2015 dirigida por Eli Roth y coescrita junto con Guillermo Amoedo y Nicolás López. El film está protagonizado por Keanu Reeves, Lorenza Izzo y Ana de Armas",
-		"url-trailer": ""
+		"url-trailer": "",
+		"categoria":"Drama",
+		"pais":"usa",
+		"actores":[1,2,3,4],
+		"audios":[1,2],
+		"subtitulos":[1,2,3]
 	},
 	{
 		"id": 111,
 		"nombre": "UN BUEN CATOLICO",
 		"resumen": "Daniel amaba su trabajo como sacerdote de un pequeño pueblo más que nada. Entonces conoció a Jane. Que Dios le salve.",
-		"url-trailer": "https://youtu.be/ENzlngM8xEs"
+		"url-trailer": "https://youtu.be/ENzlngM8xEs",
+		"categoria":"Drama",
+		"pais":"usa",
+		"actores":[1,2,3,4],
+		"audios":[1,2],
+		"subtitulos":[1,2,3]
 	},
 	{
 		"id": 112,
 		"nombre": "Amityville: El Despertar",
 		"resumen": "Belle y su familia se mudan a una nueva casa, con el fin de ahorrar dinero para ayudar a pagar el .",
-		"url-trailer": "https://youtu.be/MpfQqbuWbrw"
+		"url-trailer": "https://youtu.be/MpfQqbuWbrw",
+		"categoria":"Drama",
+		"pais":"usa",
+		"actores":[1,2,3,4],
+		"audios":[1,2],
+		"subtitulos":[1,2,3]
 	},
 	{
 		"id": 113,
 		"nombre": "The Babysitter",
 		"resumen": "El jovencito Cole se queda despierto hasta tarde… con la única compañía de su guapa niñera.",
-		"url-trailer": "https://youtu.be/LOOr1_FkFjU"
+		"url-trailer": "https://youtu.be/LOOr1_FkFjU",
+		"categoria":"Drama",
+		"pais":"usa",
+		"actores":[1,2,3,4],
+		"audios":[1,2],
+		"subtitulos":[1,2,3]
 	},
 	{
 		"id": 114,
 		"nombre": "The Glass Castle",
 		"resumen": "Una joven crece en una familia disfuncional de nómadas inconformistas, ",
-		"url-trailer": "https://youtu.be/vEM5sGpEc84"
+		"url-trailer": "https://youtu.be/vEM5sGpEc84","categoria":"Drama",
+		"pais":"usa",
+		"actores":[1,2,3,4],
+		"audios":[1,2],
+		"subtitulos":[1,2,3]
 	}
 ]
