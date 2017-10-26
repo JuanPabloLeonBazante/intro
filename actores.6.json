@@ -1,26 +1,31 @@
 [{
 		"id": 60,
 		"nombre": " Dwayne Johnson",
-		"año_nacimiento": "1972"
+		"año_nacimiento": "1972",
+		"pais" : [62]
 	},
 	{
 		"id": 61,
 		"nombre": "Jennifer Jason Leigh",
-		"año_nacimiento": "1962"
+		"año_nacimiento": "1962",
+		"pais" : [62]
 	},
 	{
 		"id": 62,
 		"nombre": "Natalie Portman",
-		"año_nacimiento": "1981"
+		"año_nacimiento": "1981",
+		"pais" : [62]
 	},
 	{
 		"id": 63,
 		"nombre": "Peter Dinklage",
-		"año_nacimiento": "1969"
+		"año_nacimiento": "1969",
+		"pais" : [64]
 	},
 	{
 		"id": 64,
 		"nombre": " Jason Statham",
-		"año_nacimiento": "1967"
+		"año_nacimiento": "1967",
+		"pais" : [64]
 	}
 ]
