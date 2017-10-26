@@ -1,5 +1,5 @@
 [
-  {asdasdasdasdasdasdasd
+  {
     "id": "1",
     "nombre": "Falso1",
     "resumen": "MuyMala1",
@@ -25,7 +25,7 @@
     "id": "3",
     "nombre": "Falso3",
     "resumen": "MuyMala3",
-    "url_trailer": "www.video.com/falso3"
+    "url_trailer": "www.video.com/falso3",
     "categoria": "3",
     "pais": "3",
     "actores": ["2", "5"],
@@ -53,5 +53,5 @@
     "actores": ["1", "2"],
     "audios": ["2", "3"],
     "subtitulos": ["3", "4"]
-  }dasdasdasdasdasd
+  }
 ]
