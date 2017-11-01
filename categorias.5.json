@@ -1,0 +1,7 @@
+[
+  {"id": 1, "nombre": "Terror"},
+  {"id": 2, "nombre": "Accion"},
+  {"id": 3, "nombre": "Suspenso"},
+  {"id": 4, "nombre": "Drama"},
+  {"id": 5, "nombre": "Infantil"}
+]
