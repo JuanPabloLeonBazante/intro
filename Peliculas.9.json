@@ -1,0 +1,46 @@
+{
+	"Peliculas": [
+
+		{
+			"id": 293660,
+			"nombre": "Deadpool",
+			"resumen": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+
+			"trailer_url": "https://youtu.be/9vN6DHB6bJc"
+
+		},
+		{
+			"id": 166426,
+			"nombre": "Pirates of the Caribbean: Dead Men Tell No Tales",
+			"resumen": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+
+			"trailer_url": "https://youtu.be/Hgeu5rhoxxY"
+
+		},
+		{
+			"id": 440021,
+			"nombre": "Happy Death Day",
+			"resumen": "A college student relives the day of her murder over and over again as she tries to discover her killer's identity.",
+
+			"trailer_url": "https://youtu.be/ntxS1bBg5o0"
+
+		},
+		{
+			"id": 298250,
+			"nombre": "Jigsaw",
+			"resumen": "Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.",
+
+			"trailer_url": "https://youtu.be/vPP6aIw1vgY"
+
+		},
+		{
+			"id": 459202,
+			"nombre": "Boo 2! A Madea Halloween",
+			"resumen": "Madea and the gang encounter monsters, goblins and boogeymen at a haunted campground.",
+
+			"trailer_url": "https://youtu.be/eA5MHLL5dwk"
+
+		}
+
+	]
+}
